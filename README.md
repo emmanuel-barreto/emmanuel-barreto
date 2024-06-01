@@ -2,5 +2,4 @@
 
 ## Hi, I'm Emmanuel 😎
 
-- 🔭 Software Engineer  ...
-
+- 🔭 Software Engineer, currently working on Kubilyze!  ...
