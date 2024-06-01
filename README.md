@@ -1,6 +1,6 @@
 
 
-## Hi, I'm Emmanuel 
+## Hi, I'm Emmanuel 😎
 
 - 🔭 Software Engineer  ...
 - 📚 I studied Biology at Universidad Interamericana de Puerto Rico...
