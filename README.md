@@ -1,5 +1,5 @@
 
 
-## Hey guys, I'm Emmanuel 😎
+## Hey, I'm Emmanuel 😎
 
-- 🔭 Software Engineer, currently working on Kubilyze!  ...
+- 🔭 Software Engineer, currently working on a project called Kubilyze!  ...
